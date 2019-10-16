@@ -1,0 +1,33 @@
+/*
+Nombre: Daniel Gonzalez Lopez
+Fecha: 24/09/2019
+ */
+ .root {
+     -fx-background-image: url("img.jpg");
+}
+
+#Bienvenido{
+    -fx-font-size:32px;
+    -fx-font-family: "Arial Black";
+}
+
+.label{
+    -fx-font-weight:bold;
+    -fx-text-fill:white;
+}
+
+#inicio{
+    -fx-font-size:16px;
+    -fx-font-family: "Arial Black";
+}
+
+.button {
+    -fx-text-fill: black;
+    -fx-background-color: white;
+}
+
+.button:hover {
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}
+
